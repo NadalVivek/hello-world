@@ -4,5 +4,5 @@ def print_star_pattern(rows):
         for j in range(1, i + 1):
             print("*", end=" ")
         print()
-num_rows = 5
+num_rows = 10
 print_star_pattern(num_rows)
